@@ -1,7 +1,7 @@
 # 👋 Hola, soy Simon
 
 💻 Full Stack Developer  
-🚀 Portfolio: https://charllie.dev
+🚀 Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-charllie.dev-black?style=for-the-badge)](https://charllie.dev)
 
 ## 🌐 Mi sitio web
 👉 https://charllie.dev
