@@ -1,4 +1,4 @@
-# 👋 Hola, soy Simon
+# 👋 Hola, soy Charllie Ricardez
 
 💻 Full Stack Developer  
 🚀 Portfolio: https://charllie.dev
