@@ -2,7 +2,6 @@
 
 💻 Full Stack Developer  
 🚀 Portfolio: https://charllie.dev
-:mexico:
 
 ## 🌐 Mi sitio web
 👉 https://charllie.dev
