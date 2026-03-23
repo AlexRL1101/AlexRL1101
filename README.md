@@ -1,7 +1,7 @@
 # 👋 Hola, soy Charllie Ricardez
 
 💻 Full Stack Developer  
-🚀 Portfolio: https://charllie.dev
+🚀 Portfolio: https://charllie.dev 🇲🇽
 
 ## 🌐 Mi sitio web
 👉 https://charllie.dev
